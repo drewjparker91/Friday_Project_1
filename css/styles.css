@@ -45,3 +45,11 @@ span {
   padding-right: 10px;
 }
 
+img {
+  width: 475px;
+  height: 500px;
+}
+
+.card-text {
+  padding-left: 20px;
+}

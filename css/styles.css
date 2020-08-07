@@ -16,10 +16,15 @@ h4 {
   text-align: center;
 }
 
+body {
+  background-image: url(https://hdwallsource.com/img/2014/9/simple-wallpaper-27241-27958-hd-wallpapers.jpg);
+  background-size: cover;
+}
+
 .sidebar {
   float:left;
   width: 200px;
-  height:2000px;
+  height:1000px;
   background-color: gray;
   padding-top: 10px;
 }

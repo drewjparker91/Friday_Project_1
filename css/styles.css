@@ -36,3 +36,12 @@ ol {
 mark {
   background-color: yellow;
 }
+
+span {
+  font-style: italic;
+}
+
+.row {
+  padding-right: 10px;
+}
+

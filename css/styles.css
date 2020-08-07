@@ -31,6 +31,7 @@ body {
   background-color: gray;
   padding-top: 10px;
   margin-right: 15px;
+  background-color: cadetblue;
 }
 
 .sidebar a {
@@ -90,4 +91,9 @@ ul {
 
 .jumbotron {
   background-color: cadetblue;
+  margin-bottom: 0px;
+}
+
+.btn a {
+  margin-bottom: 5px;
 }

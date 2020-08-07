@@ -1,29 +1,26 @@
-# _{Application Name}_
+# Friday Project One
 
-#### _{Brief description of application}, {Date of current version}_
+#### Week one project for August cohort, August 7, 2020
 
-#### By _**{List of contributors}**_
+#### By Drew Parker
 
 ## Description
 
+The purpose of this application is to feature what I have learned in the first week of coding bootcamp.
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* Clone repository from github
+* open application in web browser
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+There are no known bugs at this time.
 
 ## Support and contact details
 
+If you run into any issues, or have questions, ideas, or concerns, please reach out to Drew at drewjparker91@gmail.com
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 ## Technologies Used

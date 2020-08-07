@@ -7,14 +7,26 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
 .sidebar {
   float:left;
   width: 200px;
-  height:100%;
+  height:2000px;
   background-color: gray;
 }
 
 .sidebar a {
   text-align: center;
   color: white;
+}
+
+li {
+  text-align: left;
 }

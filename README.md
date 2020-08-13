@@ -11,8 +11,10 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* Clone repository from github
-* open application in web browser
+* Clone this repository from github.
+* Navigate to the root directory of the project in the terminal.
+* Type 'open index.html to view project in browser.
+* Open the project in your text editor to view code.
 
 ## Known Bugs
 
@@ -20,15 +22,17 @@ There are no known bugs at this time.
 
 ## Support and contact details
 
-If you run into any issues, or have questions, ideas, or concerns, please reach out to Drew at drewjparker91@gmail.com
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If you run into any issues, or have any questions, ideas, concerns, etc., please reach out to Drew at drewjparker91@gmail.com
+
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+HTML
+CSS
+Bootstrap
 
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_{List of contributors or company name}_**
+Copyright (c) 2020 **Drew Parker**

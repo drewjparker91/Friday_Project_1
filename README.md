@@ -15,7 +15,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * Navigate to the root directory of the project in the terminal.
 * Type 'open index.html to view project in browser.
 * Open the project in your text editor to view code.
-* Feel free to view my project on https://drewjparker91.github.io/Friday_Project_1/ as well!
+* To view to project you can also visit https://drewjparker91.github.io/Friday_Project_1/
 
 ## Known Bugs
 
